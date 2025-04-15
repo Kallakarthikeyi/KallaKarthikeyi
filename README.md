@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalla Sree Karthikeyi</h1>
-<h3 align="center">Aspiring Data Scientist with strong skills in Python, SQL,Excel, and Power BI. Final-year BSc Data Science student, proficient in data analysis .</h3>
+<h3 align="center">👋 Hi there! I’m Kalla Sree Karthikeyi, a passionate BSc Data Science student with a keen interest in data analysis, data visualization, and problem-solving. 🔍 I love exploring real-world data, uncovering insights, and turning numbers into narratives. 📊 Skilled in Python, SQL, Excel, Tableau, and Power BI. 💡 Currently working on projects related to election data analysis and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kallakarthikeyi&label=Profile%20views&color=0e75b6&style=flat" alt="kallakarthikeyi" /> </p>
 
